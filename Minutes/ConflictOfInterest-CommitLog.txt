@@ -1,0 +1,153 @@
+The following is the commit log for the Conflict of Interest Acknowledgement from the legacy [conference repository](https://github.com/fwdcloudsec/conference/blob/master/ConflictOfInterest.md)
+
+commit 6535dcf022a55474c26791fbbc97949adc27a5f9
+Author: gleauxbalsecur1 <72638031+gleauxbalsecur1@users.noreply.github.com>
+Date:   Fri Feb 17 09:40:30 2023 -0600
+
+    Update ConflictOfInterest.md
+    
+    Reviewed conflict of interest policy and signed conflict of interest statement - Shinesa Cambric
+
+commit 1f8de88540971e60d934a42a547fbf5bcafc5771
+Author: Patrick Sanders <mail@patricksanders.net>
+Date:   Thu Feb 16 21:51:57 2023 -0800
+
+    sign conflict of interest policy
+
+commit 3c9fee9b575ac619ceac393122f0d51eb1c72530
+Author: Joel Thompson <joel@jthompson.io>
+Date:   Wed Feb 15 18:04:29 2023 -0500
+
+    Update ConflictOfInterest.md
+
+commit 48ba87c4d8b05195feac5888b020001f5a9e2bb8
+Author: Houston <houston.r.hopkins@gmail.com>
+Date:   Wed Feb 15 16:14:46 2023 -0600
+
+    Update ConflictOfInterest.md
+
+commit 453cf11da2d642b9c87f66e7cea6426a99a5a1d9
+Author: Aaron Zollman <zollman@users.noreply.github.com>
+Date:   Wed Feb 15 17:13:46 2023 -0500
+
+    Update ConflictOfInterest.md
+
+commit 9a31d803ca74bc77879a865206efe14314ef1397
+Author: Scott Piper <0xdabbad00@users.noreply.github.com>
+Date:   Wed Feb 15 15:08:17 2023 -0700
+
+    Signed conflict of interest policy
+
+commit 85c5aa4aad4befc688abfc70e37053d4fb1c0334
+Author: Jerin Saji <55607812+JerinSaji0@users.noreply.github.com>
+Date:   Wed Feb 15 16:07:51 2023 -0600
+
+    Update ConflictOfInterest.md
+
+commit 604940c97e8b18581739f0691b251b68aa6836c9
+Author: Chris Farris <chris@room17.com>
+Date:   Wed Feb 15 17:03:18 2023 -0500
+
+    Signed
+
+commit 1ce8b042e4fb740e2a66ed8076e321ab119641a3
+Author: Joel Thompson <joel@jthompson.io>
+Date:   Tue Feb 14 21:31:43 2023 -0500
+
+    Update Conflict Of Interest Doc for 2023
+
+commit 4d662049c79ba7cb987b79b7cc853a5ca7bdfbf5
+Author: Jerin Saji <55607812+JerinSaji0@users.noreply.github.com>
+Date:   Mon Apr 4 09:13:02 2022 -0500
+
+    Update ConflictOfInterest.md
+
+commit 6909955fd44c56351181a0d84b72c6c7e7f29746
+Author: Aaron Zollman <zollman@users.noreply.github.com>
+Date:   Mon Apr 4 09:02:48 2022 -0400
+
+    Sign conflict of interest policy
+
+commit ff058928445eae5b9eae8222caeacc035ca3ec0e
+Author: Chris Farris <chris@room17.com>
+Date:   Sun Apr 3 17:03:01 2022 -0400
+
+    Digitally Signed Conflict of Interest
+
+commit 669b11546174394f37546427604eaa9016c75577
+Author: Scott Piper <0xdabbad00@users.noreply.github.com>
+Date:   Sun Apr 3 14:46:28 2022 -0600
+
+    Signed conflict of interest policy
+
+commit d70769e592a2a78aaaa2e88c971b056fc6555d30
+Author: Joel Thompson <joel@jthompson.io>
+Date:   Sun Apr 3 16:37:11 2022 -0400
+
+    Update ConflictOfInterest.md
+    
+    Sign acknowledgement
+
+commit b7c51627d0b4ba2ee6bbfd296f95321bfb68653f
+Author: Joel Thompson <joel@jthompson.io>
+Date:   Sun Apr 3 16:33:36 2022 -0400
+
+    Update ConflictOfInterest.md
+    
+    Add 2022 section
+
+commit ac4e54edd59077440ceab75e492ab037c4287fea
+Author: annamcabee <annamcabee@gmail.com>
+Date:   Mon Feb 8 17:43:55 2021 -0500
+
+    Update ConflictOfInterest.md
+
+commit 26e6d48248527f1a6443fc16f4ebf90b54873540
+Author: Chris Farris <chris@room17.com>
+Date:   Mon Feb 8 17:27:37 2021 -0500
+
+    Update ConflictOfInterest.md
+    
+    Agreeing to policy
+
+commit 6f2b94ced8431170415113319522efd6346f8b80
+Author: Aaron Zollman <zollman@users.noreply.github.com>
+Date:   Mon Feb 8 17:15:13 2021 -0500
+
+    Update ConflictOfInterest.md
+
+commit aa055421d86a441c36919429794d9e145a9a85a9
+Author: Aaron Zollman <zollman@users.noreply.github.com>
+Date:   Mon Feb 8 17:15:02 2021 -0500
+
+    Update ConflictOfInterest.md
+
+commit 9e2a55d8739cb0d818d0135b9431b23e69ecfd61
+Author: Jerin Saji <55607812+JerinSaji0@users.noreply.github.com>
+Date:   Mon Feb 8 16:14:17 2021 -0600
+
+    Update ConflictOfInterest.md
+
+commit e2a4eb91a0305ccc2f4c379f8d9be6504cf47adc
+Author: Scott Piper <0xdabbad00@users.noreply.github.com>
+Date:   Sat Feb 6 11:57:02 2021 -0700
+
+    Signed conflict of interest
+
+commit 761d8ab4d28b52d3c1aa8d968d51dd7fa5013d0f
+Author: Joel Thompson <joel@jthompson.io>
+Date:   Sat Feb 6 01:39:34 2021 -0500
+
+    Update ConflictOfInterest.md
+
+commit 2f8952c0bf7bb0d7912e28ec5959b771fb0e81b0
+Author: Joel Thompson <joel@jthompson.io>
+Date:   Sat Feb 6 01:39:01 2021 -0500
+
+    Sign Conflict of Interest Statement
+
+commit 2414901c20189f9e9d725c023a1d125ad58adab8
+Author: Joel Thompson <joel@jthompson.io>
+Date:   Sat Feb 6 01:28:33 2021 -0500
+
+    Add Conflict of Interest acknowledgement
