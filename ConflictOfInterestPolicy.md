@@ -29,7 +29,8 @@ publishing to GitHub, affirms:
 * Houston Hopkins (2023-02-15)
 * Joel Thompson (2023-02-15)
 * Patrick Sanders (2023-02-16)
-* Shinesa Cambric (2023-02-17)\
+* Shinesa Cambric (2023-02-17)
+* Karim El-Melhaoui (2023-12-15)\
 ** GitHub Record at legacy [conference repo](https://github.com/fwdcloudsec/conference/commits/master/ConflictOfInterest.md)**
 
 # 2022
