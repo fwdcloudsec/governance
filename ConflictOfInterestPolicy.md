@@ -14,7 +14,7 @@ as that statement.
 Each individual below, by typing his or her name, indicating the date, and
 publishing to GitHub, affirms:
 * Receipt of the current governing [Conflict of Interest
-  Policy](https://github.com/fwdcloudsec/conference/blob/48ba87c4d8b05195feac5888b020001f5a9e2bb8/Bylaws.md#conflict-of-interest)
+  Policy](https://github.com/fwdcloudsec/governance/blob/main/Bylaws.md#conflict-of-interest)
 * Review of the Policy
 * Agreement to abide by the Policy
 * Understanding that the Association is a charitable organization and, in order
