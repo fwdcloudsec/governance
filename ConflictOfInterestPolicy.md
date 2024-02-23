@@ -24,6 +24,7 @@ publishing to GitHub, affirms:
 * Joel Thompson (2024-02-22)
 * Houston Hopkins (2024-02-22)
 * Jerin Saji (2024-02-23)
+* Patrick Sanders (2024-02-23)
 
 # 2023
 
