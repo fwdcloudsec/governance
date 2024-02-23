@@ -22,6 +22,7 @@ publishing to GitHub, affirms:
 
 ## Signed and dated:
 * Joel Thompson (2024-02-22)
+* Houston Hopkins (2024-02-22)
 
 # 2023
 
