@@ -26,6 +26,8 @@ publishing to GitHub, affirms:
 * Jerin Saji (2024-02-23)
 * Patrick Sanders (2024-02-23)
 * Aaron Zollman (2024-02-23)
+* Chris Farris (2024-02-27)
+
 
 # 2023
 
