@@ -27,6 +27,7 @@ publishing to GitHub, affirms:
 * Patrick Sanders (2024-02-23)
 * Aaron Zollman (2024-02-23)
 * Chris Farris (2024-02-27)
+* Scott Piper (2024-02-27)
 
 
 # 2023
