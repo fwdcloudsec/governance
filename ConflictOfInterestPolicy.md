@@ -28,6 +28,7 @@ publishing to GitHub, affirms:
 * Aaron Zollman (2024-02-23)
 * Chris Farris (2024-02-27)
 * Scott Piper (2024-02-27)
+* Shinesa Cambric (2024-02-27)
 
 
 # 2023
