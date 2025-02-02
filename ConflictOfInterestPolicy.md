@@ -8,6 +8,21 @@ require that certain individuals affiliated with the Association sign a
 statement annually affirming compliance with the Policy. This document serves
 as that statement.
 
+# 2025
+
+Each individual below, by typing his or her name, indicating the date, and
+publishing to GitHub, affirms:
+* Receipt of the current governing [Conflict of Interest
+  Policy](https://github.com/fwdcloudsec/governance/blob/main/Bylaws.md#conflict-of-interest)
+* Review of the Policy
+* Agreement to abide by the Policy
+* Understanding that the Association is a charitable organization and, in order
+  to maintain its federal tax exemption, must engage primarily in activities
+  which accomplish one or more of its tax-exempt purposes.
+
+## Signed and dated:
+
+
 # 2024
 
 Each individual below, by typing his or her name, indicating the date, and
