@@ -21,6 +21,7 @@ publishing to GitHub, affirms:
   which accomplish one or more of its tax-exempt purposes.
 
 ## Signed and dated:
+* Chris Farris (2025-02-15)
 
 
 # 2024
