@@ -23,6 +23,7 @@ publishing to GitHub, affirms:
 ## Signed and dated:
 * Chris Farris (2025-02-15)
 * Patrick Sanders (2025-02-25)
+* Scott Piper (2025-02-26)
 
 
 # 2024
