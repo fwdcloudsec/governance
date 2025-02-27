@@ -24,6 +24,7 @@ publishing to GitHub, affirms:
 * Chris Farris (2025-02-15)
 * Patrick Sanders (2025-02-25)
 * Scott Piper (2025-02-26)
+* Shinesa Cambric (2025-02-27)
 
 
 # 2024
