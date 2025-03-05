@@ -26,6 +26,7 @@ publishing to GitHub, affirms:
 * Scott Piper (2025-02-26)
 * Shinesa Cambric (2025-02-27)
 * Houston Hopkins (2025-03-05)
+* Jerin Saji (2025-03-05)
 
 
 # 2024
