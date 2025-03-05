@@ -25,6 +25,7 @@ publishing to GitHub, affirms:
 * Patrick Sanders (2025-02-25)
 * Scott Piper (2025-02-26)
 * Shinesa Cambric (2025-02-27)
+* Houston Hopkins (2025-03-05)
 
 
 # 2024
