@@ -27,6 +27,7 @@ publishing to GitHub, affirms:
 * Shinesa Cambric (2025-02-27)
 * Houston Hopkins (2025-03-05)
 * Jerin Saji (2025-03-05)
+* Karim El-Melhaoui (2025-03-07)
 
 
 # 2024
