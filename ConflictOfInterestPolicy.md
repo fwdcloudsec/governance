@@ -29,7 +29,7 @@ publishing to GitHub, affirms:
 * Jerin Saji (2025-03-05)
 * Karim El-Melhaoui (2025-03-07)
 
-
+* Aaron Zollman (2025-03-08)
 # 2024
 
 Each individual below, by typing his or her name, indicating the date, and
