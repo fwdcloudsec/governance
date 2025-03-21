@@ -28,7 +28,7 @@ publishing to GitHub, affirms:
 * Houston Hopkins (2025-03-05)
 * Jerin Saji (2025-03-05)
 * Karim El-Melhaoui (2025-03-07)
-
+* Lea Snyder (2025-03-07)
 * Aaron Zollman (2025-03-08)
 # 2024
 
