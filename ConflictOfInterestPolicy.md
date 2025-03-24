@@ -30,6 +30,7 @@ publishing to GitHub, affirms:
 * Karim El-Melhaoui (2025-03-07)
 * Lea Snyder (2025-03-07)
 * Aaron Zollman (2025-03-08)
+* Christophe Tafani-Dereeper (2025-03-24)
 * Ben Bridts (2025-03-24)
 
 # 2024
