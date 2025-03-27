@@ -33,6 +33,7 @@ publishing to GitHub, affirms:
 * Christophe Tafani-Dereeper (2025-03-24)
 * Ben Bridts (2025-03-24)
 * Nick Jones (2025-03-27)
+* Sochima Okoye (2025-03-27)
 
 # 2024
 
