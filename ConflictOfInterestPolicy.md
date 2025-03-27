@@ -32,6 +32,7 @@ publishing to GitHub, affirms:
 * Aaron Zollman (2025-03-08)
 * Christophe Tafani-Dereeper (2025-03-24)
 * Ben Bridts (2025-03-24)
+* Nick Jones (2025-03-27)
 
 # 2024
 
