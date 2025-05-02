@@ -35,6 +35,7 @@ publishing to GitHub, affirms:
 * Nick Jones (2025-03-27)
 * Sochima Okoye (2025-03-27)
 * Joel Thompson (2025-05-01)
+* Victor Grenu (2025-05-02)
 
 # 2024
 
