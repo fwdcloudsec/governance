@@ -34,6 +34,7 @@ publishing to GitHub, affirms:
 * Ben Bridts (2025-03-24)
 * Nick Jones (2025-03-27)
 * Sochima Okoye (2025-03-27)
+* Joel Thompson (2025-05-01)
 
 # 2024
 
