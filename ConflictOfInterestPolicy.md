@@ -24,6 +24,7 @@ publishing to GitHub, affirms:
 * Joel Thompson (2026-01-25)
 * Scott Piper (2026-01-25)
 * Karim El-Melhaoui (2026-01-26)
+* Ben Bridts (2026-01-26)
 
 # 2025
 
