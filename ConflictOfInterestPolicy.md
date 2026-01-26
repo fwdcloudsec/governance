@@ -22,6 +22,7 @@ publishing to GitHub, affirms:
 
 ## Signed and dated:
 * Joel Thompson (2026-01-25)
+* Scott Piper (2026-01-25)
 
 # 2025
 
