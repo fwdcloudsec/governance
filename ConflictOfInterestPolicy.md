@@ -21,7 +21,7 @@ publishing to GitHub, affirms:
   which accomplish one or more of its tax-exempt purposes.
 
 ## Signed and dated:
-
+* Joel Thompson (2026-01-25)
 
 # 2025
 
