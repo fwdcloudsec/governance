@@ -25,6 +25,7 @@ publishing to GitHub, affirms:
 * Scott Piper (2026-01-25)
 * Karim El-Melhaoui (2026-01-26)
 * Ben Bridts (2026-01-26)
+* Meg Ashby (2026-01-27)
 
 # 2025
 
