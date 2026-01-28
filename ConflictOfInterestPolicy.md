@@ -26,6 +26,7 @@ publishing to GitHub, affirms:
 * Karim El-Melhaoui (2026-01-26)
 * Ben Bridts (2026-01-26)
 * Meg Ashby (2026-01-27)
+* Christophe Tafani-Dereeper (2026-01-28)
 
 # 2025
 
