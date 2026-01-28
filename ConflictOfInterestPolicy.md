@@ -28,6 +28,7 @@ publishing to GitHub, affirms:
 * Meg Ashby (2026-01-27)
 * Christophe Tafani-Dereeper (2026-01-28)
 * Nick Jones (2026-01-28)
+* Patrick Sanders (2026-01-28)
 
 # 2025
 
