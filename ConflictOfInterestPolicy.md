@@ -29,6 +29,7 @@ publishing to GitHub, affirms:
 * Christophe Tafani-Dereeper (2026-01-28)
 * Nick Jones (2026-01-28)
 * Patrick Sanders (2026-01-28)
+* Lea Snyder (2026-01-30)
 
 # 2025
 
