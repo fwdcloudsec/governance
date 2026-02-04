@@ -31,6 +31,7 @@ publishing to GitHub, affirms:
 * Patrick Sanders (2026-01-28)
 * Lea Snyder (2026-01-30)
 * Aaron Zollman (2026-02-04)
+* Chris Farris (2026-02-04)
 # 2025
 
 Each individual below, by typing his or her name, indicating the date, and
