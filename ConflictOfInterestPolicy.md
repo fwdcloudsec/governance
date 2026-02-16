@@ -33,6 +33,7 @@ publishing to GitHub, affirms:
 * Aaron Zollman (2026-02-04)
 * Chris Farris (2026-02-04)
 * Houston Hopkins (2026-02-04)
+* Sochima Okoye (2026-02-16)
 # 2025
 
 Each individual below, by typing his or her name, indicating the date, and
